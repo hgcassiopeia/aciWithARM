@@ -7,19 +7,20 @@
             "type": "string"
         },
         "memoryInGB": {
-            "value": "4"
+            "value": "4",
+            "type": "string"
         },
         "registryServerName": {
-            "value": "string"
+            "type": "string"
         },
         "registryUserName": {
-            "value": "string"
+            "type": "string"
         },
         "registryPassword": {
-            "value": "string"
+            "type": "string"
         },
         "image": {
-            "value": "string"
+            "type": "string"
         }
     }
 }
